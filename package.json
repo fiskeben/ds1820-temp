@@ -1,0 +1,23 @@
+{
+  "name": "ds1820-temp",
+  "version": "1.0.0",
+  "description": "Read ds18x20 temperature sensors with Raspberry Pi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ds1820",
+    "ds18b20",
+    "thermometer",
+    "1wire",
+    "temperature",
+    "sensor",
+    "raspberry pi"
+  ],
+  "author": "Ricco Forgaard <ricco@fiskeben.dk> (http://fiskeben.dk)",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^7.0.4"
+  }
+}
